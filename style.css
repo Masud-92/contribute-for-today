@@ -1,0 +1,142 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button {
+    background-color: brown;
+    border: 0px solid;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.body-part1 {
+    margin: 10px 200px 10px 200px;
+}
+
+.align {
+    text-align: center;
+}
+
+.boxcontainer {
+    width: 800px;
+    height: 150px;
+    border: none;
+    margin: 0 auto;
+}
+
+.column {
+    width: 40px;
+    height: 30px;
+    background-color: aquamarine;
+    float: left;
+    border: none;
+    padding: 40px;
+    margin: 10px;
+}
+
+.column1 {
+    width: 40px;
+    height: 30px;
+    background-color: rgba(230, 212, 212, 0.501);
+    float: left;
+    border: 1px solid red;
+    padding: 40px;
+    margin: 10px;
+}
+
+#writeup {
+    text-align: center;
+}
+
+.button {
+    margin-left: 45%;
+}
+
+.body-part2 {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.para {
+    margin: 10px 250px 10px 250px;
+}
+
+.box {
+    width: 1300px;
+    height: 150px;
+    border: none;
+    margin-left: 250px;
+}
+
+#column2 {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(76, 88, 84);
+    float: left;
+    border: none;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+#column3 {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(80, 60, 60);
+    float: left;
+    border: none;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+#column4 {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(243, 120, 120);
+    border: none;
+    float: left;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+img {
+    margin-right: 500px;
+}
+
+#part4 {
+    text-align: center;
+    margin-top: 90px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    box-sizing: initial;
+    margin: 0px 40px 0px 40px;
+}
+
+.footer-head {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: rgb(226, 17, 17);
+    padding-top: 50px;
+    padding-bottom: 0%;
+}
+
+.footer-writeup {
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 0%;
+}
